@@ -17,5 +17,7 @@
     "Name": "姓名",
     "Logout": "登出",
     "Dashboard": "控制臺",
-    "You are logged in!":"您已登錄成功！"
+    "You are logged in!":"您已登錄成功！",
+    "Address": "收貨地址",
+    "TEL": "聯絡電話"
 }
