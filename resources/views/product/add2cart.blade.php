@@ -11,6 +11,7 @@ swal('加入購物車成功', '', 'success');
 swal('請先登入', '', 'error');
 @endguest
 
+
 @auth
 swal('系統錯誤', '', 'error');
 @endauth
